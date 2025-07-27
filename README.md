@@ -14,8 +14,7 @@ Microsoft is planning to launch a new movie studio but **lacks insight** into wh
 
 ## Data
 
-The data files provide the title of the film, year of creation of the film, the average rating of the film as well as other attributes of the film (e.g. film runtime, domestic and international profits).
-Every film associated with the analysis has a unique title name as the unique identifier for each film.
+The data files provide the title of the film, year of creation of the film, the average rating of the film as well as other attributes of the film (e.g. film runtime, domestic and international profits). The data used in the analysis has films that have been produced from 2010-2018. Every film associated with the analysis has a unique title name as its unique attribute.
 
 ## Methods
 
