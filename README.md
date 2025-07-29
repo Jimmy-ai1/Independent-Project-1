@@ -59,3 +59,10 @@ This analysis leads to five recommendations for Microsoft's content creation jou
 - **Balance Quality and Popularity**. Consider including occasional critically driven content such as Drama and Documentary films to brand credibility.
 - **Stay responsive to trends**. Keep track of year-by-year trends in genre performance, runtime norms and viewer preference to stay competitive and agile.
 
+```
+├── data
+├── images
+├── Microsoft Film Creation Strategies Presentation.pdf
+├── Microsoft_Film_Creation_Strategies.ipynb
+└── README.md
+```
