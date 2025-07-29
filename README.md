@@ -22,19 +22,19 @@ This project uses descriptive analysis, including description of trends over tim
 
 ## Results
 
-**Action, Adventure and Comedy** are the top three revenue-generating genres. This indicates that they have **broad audience appeal and string market performance.**
+**Action, Adventure and Comedy** are the top three revenue-generating genres. This indicates that they have **broad audience appeal and strong market performance.**
 
 <img width="1500" height="800" alt="Total_Gross_by_Genre (1)" src="https://github.com/user-attachments/assets/6c423edb-aef4-4d72-a162-0b181657860a" />
 
 
 Films with a moderate to long runtime **(between 100 to 150 minutes)** tend to generate higher box office returns. Extremely short or overly long films show reduced returns.
 
-<img width="800" height="600" alt="Runtime_vs_Total_Gross" src="https://github.com/user-attachments/assets/6e11b1ea-a53f-4af9-8f80-c98bc45fd54e" />
+<img width="800" height="600" alt="Runtime_vs_Total_Returns" src="https://github.com/user-attachments/assets/e2e00f7d-a900-4455-8024-35ec21059adf" />
 
 
-Films with **average ratings between 6.0 and 8.0** tend to perform better financially. There's a moderate positive correlation between audience approval and revenue which means that other factors like genre, marketing etc also heavily influence box office success.
+Films with **average ratings between 6.0 and 8.0** tend to perform better financially. There's a moderate positive correlation between audience approval and revenue which means that other factors like genre, marketing etc. also heavily influence box office success.
 
-<img width="800" height="600" alt="AverageRating_vs_Total_Gross" src="https://github.com/user-attachments/assets/dd393a2d-e327-4584-b0c9-0c263d5fe8e5" />
+<img width="800" height="600" alt="Average_Rating_vs_Total_Returns" src="https://github.com/user-attachments/assets/e839e736-5b94-437e-8676-543c7dfc9cf7" />
 
 
 The total box office returns have shown a **fluctuating trend** over the years. There were significant spikes in 2011 and 2013, while 2012 and 2014 experienced noticeable declines.
@@ -44,9 +44,9 @@ The average runtime of films has **generally increased over time**, following a 
 
 ## Conclusions
 
-- **Action, Adventure and Comedy films** lead in total box offic gross, proving to be the most commercially successful genres.
+- **Action, Adventure and Comedy films** lead in total box office gross, proving to be the most commercially successful genres.
 - Films with runtimes between **100 to 150 minutes** tend to perform better financially as they strike a balance between depth and watchability.
-- **Temporal trends** - Total returns fluctuate year by year with notable spikes and dips. Runtime has generally increased over time, with a few outiliers
+- **Temporal trends** - Total returns fluctuate year by year with notable spikes and dips. Runtime has generally increased over time, with a few outliers
 - Genres with high audience appeal such as Drama and Documentary tend to have lower gross, while popular genres like Action perform better at box office level despite their lower average ratings.
 
 
@@ -58,3 +58,4 @@ This analysis leads to five recommendations for Microsoft's content creation jou
 - **Target Runtimes between 100 to 150 minutes**, where box office performance and viewer engagement tend to be optimal.
 - **Balance Quality and Popularity**. Consider including occasional critically driven content such as Drama and Documentary films to brand credibility.
 - **Stay responsive to trends**. Keep track of year-by-year trends in genre performance, runtime norms and viewer preference to stay competitive and agile.
+
