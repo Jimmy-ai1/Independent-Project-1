@@ -2,7 +2,7 @@
 
 # Microsoft Film Creation Strategies Analysis
 
-**Author**: Jimmy Chege Gichui
+**Author**: Jimmy Gichui
 
 ## Overview
 
