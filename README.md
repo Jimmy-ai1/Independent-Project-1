@@ -24,7 +24,8 @@ This project uses descriptive analysis, including description of trends over tim
 
 **Action, Adventure and Comedy** are the top three revenue-generating genres. This indicates that they have **broad audience appeal and strong market performance.**
 
-<img width="1500" height="800" alt="Total_Gross_by_Genre (1)" src="https://github.com/user-attachments/assets/6c423edb-aef4-4d72-a162-0b181657860a" />
+<img width="1500" height="800" alt="Total_Gross_by_Genre" src="https://github.com/user-attachments/assets/60c181f0-2bc3-4c69-9c60-c4955c4e7125" />
+
 
 
 Films with a moderate to long runtime **(between 100 to 150 minutes)** tend to generate higher box office returns. Extremely short or overly long films show reduced returns.
@@ -40,7 +41,7 @@ Films with **average ratings between 6.0 and 8.0** tend to perform better financ
 The total box office returns have shown a **fluctuating trend** over the years. There were significant spikes in 2011 and 2013, while 2012 and 2014 experienced noticeable declines.
 The average runtime of films has **generally increased over time**, following a sharp drop in 2011. An exception to this trend occurred in 2018, where runtime saw a significant decline compared to 2017 - This suggests a gradual shift toward longer storytelling formats, although shorter films have gained popularity in 2018.
 
-<img width="1000" height="800" alt="Trends_Over_Time" src="https://github.com/user-attachments/assets/ae8a4a18-81ff-48a1-b95d-a34ae189e5b0" />
+<img width="1000" height="800" alt="Trends_Over_Time" src="https://github.com/user-attachments/assets/d1810181-add8-4f42-89b9-30e8f6fd43a6" />
 
 ## Conclusions
 
